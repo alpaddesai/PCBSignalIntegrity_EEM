@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CrosstalkImage.jpg" />
+    <None Remove="De-emphasis.jpg" />
+    <None Remove="Equalization.jpg" />
+    <None Remove="EqualizationWaveform.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="CrosstalkImage.jpg" />
+    <Resource Include="De-emphasis.jpg" />
+    <Resource Include="Equalization.jpg" />
+    <Resource Include="EqualizationWaveform.jpg" />
+  </ItemGroup>
+
+</Project>
