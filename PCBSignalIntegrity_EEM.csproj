@@ -7,17 +7,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="ADS.png" />
     <None Remove="CrosstalkImage.jpg" />
     <None Remove="De-emphasis.jpg" />
     <None Remove="Equalization.jpg" />
     <None Remove="EqualizationWaveform.jpg" />
+    <None Remove="HFSS.png" />
+    <None Remove="Presentation.png" />
+    <None Remove="Rogers.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="ADS.png" />
     <Resource Include="CrosstalkImage.jpg" />
     <Resource Include="De-emphasis.jpg" />
     <Resource Include="Equalization.jpg" />
     <Resource Include="EqualizationWaveform.jpg" />
+    <Resource Include="HFSS.png" />
+    <Resource Include="Presentation.png" />
+    <Resource Include="Rogers.png" />
   </ItemGroup>
 
 </Project>

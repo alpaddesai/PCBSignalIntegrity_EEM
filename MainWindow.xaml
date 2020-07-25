@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PCBSignalIntegrity_EEM"
         mc:Ignorable="d"
-        Title="MainWindow" Height="507" Width="840" MaxWidth="840" MaxHeight="507">
+        Title="MainWindow" Height="497" Width="835" MaxWidth="840" MaxHeight="507">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="38*"/>
@@ -14,7 +14,7 @@
             <ColumnDefinition Width="2*"/>
         </Grid.ColumnDefinitions>
         <TabControl Grid.ColumnSpan="4">
-            <TabItem Header="TabItem">
+            <TabItem Header="SignalIntegrity">
                 <Grid Background="#FFE5E5E5" MaxWidth="834" MaxHeight="463">
                     <TabControl Margin="0,0,2,6">
                         <TabItem x:Name="Crosstalk" Header="CrosstalkAnalysis">
@@ -34,7 +34,7 @@
                     </TabControl>
                 </Grid>
             </TabItem>
-            <TabItem Header="TabItem">
+            <TabItem Header="ChannelSimulation">
                 <Grid Background="#FFE5E5E5">
                     <TabControl>
                         <TabItem x:Name="Equalization1" Header="Equalization">
@@ -54,6 +54,47 @@
                                     <ColumnDefinition Width="55*"/>
                                 </Grid.ColumnDefinitions>
                                 <Image x:Name="EqualizationPrecursor" Margin="13,6,19,34" Stretch="Fill" Source="/EqualizationWaveform.jpg" Grid.ColumnSpan="2"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="PCBboardSI" Margin="-2,-2,-2,0">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl Margin="0,0,15,9">
+                        <TabItem Header="EyeDiagram">
+                            <Grid Background="#FFE5E5E5" Height="387" Margin="0,0,6,0">
+                                <Image Margin="7,5,15,12" Stretch="Fill" Source="/ADS.png"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="HFSS">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="4,7,10,0" Stretch="Fill" Source="/HFSS.png" Height="403" VerticalAlignment="Top"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="BoardSI" Margin="-2,0,-2,0" Height="22" VerticalAlignment="Bottom">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl Margin="0,0,15,9">
+                        <TabItem Header="Material">
+                            <Grid Background="#FFE5E5E5" Height="387" Margin="0,0,6,0">
+                                <Image Margin="7,5,15,12" Stretch="Fill" Source="1542751e-20b8-4b56-a9a8-a0dacba70866"/>
+                                <Image Margin="3,5,15,3" Stretch="Fill" Source="/Rogers.png"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Presentation" Margin="-2,0,-2,0" Height="22" VerticalAlignment="Center">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl Margin="0,0,15,9">
+                        <TabItem Header="Presentation">
+                            <Grid Background="#FFE5E5E5" Height="387" Margin="0,0,6,0">
+                                <Image Margin="7,5,15,12" Stretch="Fill" Source="b39b6512-14d5-4ef4-b86d-44e9ace8e338"/>
+                                <Image Margin="3,5,15,3" Stretch="Fill" Source="7d8533e3-e9a4-4193-8d83-78262489ec47"/>
+                                <Image Margin="3,2,8,7" Stretch="Fill" Source="/Presentation.png"/>
                             </Grid>
                         </TabItem>
                     </TabControl>
