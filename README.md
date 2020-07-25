@@ -16,3 +16,15 @@ All images are custom or have a reference name.
 
 ## Crosstalk Analysis
 ![image](CrosstalkAnalysis.png)
+
+## PCB Board SI
+![image](PCBBoardSI.png)
+
+## HFSS
+![image](HFSS.png)
+
+## Board Signal Integrity
+![image](BoardSI.png)
+
+## Presentation
+![image](Presentation.png)
