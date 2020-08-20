@@ -29,4 +29,4 @@ All images are custom or have a reference name.
 ## Presentation
 ![image](Presentation.png)
 
-Advamced knowledge reference : https://github.com/alpaddesai/AntennaDesign
+Advamced knowledge reference : https://github.com/alpaddesai/AntennaDesign and https://github.com/alpaddesai/ICPackageDesign
