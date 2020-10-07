@@ -29,4 +29,7 @@ All images are custom or have a reference name.
 ## Presentation
 ![image](Presentation.png)
 
+## DSP
+![image](DSPGroundUp.jpg)
+
 Advamced knowledge reference : https://github.com/alpaddesai/AntennaDesign and https://github.com/alpaddesai/ICPackageDesign
