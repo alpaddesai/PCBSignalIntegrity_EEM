@@ -32,4 +32,7 @@ All images are custom or have a reference name.
 ## DSP
 ![image](DSPGroundUp.jpg)
 
+## Interest
+![image](image.png)
+
 Advamced knowledge reference : https://github.com/alpaddesai/AntennaDesign and https://github.com/alpaddesai/ICPackageDesign
