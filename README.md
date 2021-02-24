@@ -32,7 +32,7 @@ All images are custom or have a reference name.
 ## DSP
 ![image](DSPGroundUp.jpg)
 
-Engineering Electromagnetics, fundamentals
+## Engineering Electromagnetics, fundamentals
 
 ## Interest
 ![image](image_1.png)
