@@ -1,4 +1,4 @@
-# PCB Signal Integrity EEM
+# PCB Signal Integrity Electromagnetics
 
 The project provides on overview on transmission wave theory and signal integrity analysis
 
@@ -17,7 +17,7 @@ All images are custom or have a reference name.
 ## Crosstalk Analysis
 ![image](CrosstalkAnalysis.png)
 
-## PCB Board SI
+## PCB Board Signal Integrity
 ![image](PCBBoardSI.png)
 
 ## HFSS
