@@ -33,9 +33,10 @@ All images are custom or have a reference name.
 ![image](DSPGroundUp.jpg)
 
 Engineering Electromagnetics, fundamentals
-![image](image_1.png)
 
 ## Interest
+![image](image_1.png)
+
 ![image](image.png)
 
 Advamced knowledge reference : https://github.com/alpaddesai/AntennaDesign and https://github.com/alpaddesai/ICPackageDesign
