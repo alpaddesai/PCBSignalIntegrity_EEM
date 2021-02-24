@@ -29,7 +29,7 @@ All images are custom or have a reference name.
 ## Presentation
 ![image](Presentation.png)
 
-## DSP
+## Digital Signal Processing
 ![image](DSPGroundUp.jpg)
 
 ## Engineering Electromagnetics, fundamentals
