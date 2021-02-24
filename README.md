@@ -32,7 +32,7 @@ All images are custom or have a reference name.
 ## Digital Signal Processing
 ![image](DSPGroundUp.jpg)
 
-## Engineering Electromagnetics, fundamentals
+## Engineering Electromagnetics Fundamentals
 
 ## Interest
 ![image](image_1.png)
