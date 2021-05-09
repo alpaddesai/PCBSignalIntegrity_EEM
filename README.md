@@ -16,6 +16,7 @@ All images are custom or have a reference name.
 
 ## Crosstalk Analysis
 ![image](CrosstalkAnalysis.png)
+![image](crosstalk_analysis.jpg)
 
 ## PCB Board Signal Integrity
 ![image](PCBBoardSI.png)
