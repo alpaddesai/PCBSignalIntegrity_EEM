@@ -33,6 +33,9 @@ All images are custom or have a reference name.
 ## Digital Signal Processing
 ![image](DSPGroundUp.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 ## Engineering Electromagnetics Fundamentals
 
 ## Interest
