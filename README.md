@@ -27,9 +27,6 @@ All images are custom or have a reference name.
 ## Board Signal Integrity
 ![image](BoardSI.png)
 
-## Presentation
-![image](Presentation.png)
-
 ## Digital Signal Processing
 ![image](DSPGroundUp.jpg)
 
