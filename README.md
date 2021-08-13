@@ -1,4 +1,4 @@
-# PCB Signal Integrity EEM
+# PCB Signal Integrity EEM Devices
 
 The project provides on overview on transmission wave theory and signal integrity analysis
 
