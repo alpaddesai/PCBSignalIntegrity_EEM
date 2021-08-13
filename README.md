@@ -40,4 +40,4 @@ All images are custom or have a reference name.
 
 ![image](image.png)
 
-Advamced knowledge reference : https://github.com/alpaddesai/AntennaDesign and https://github.com/alpaddesai/ICPackageDesign
+Advamced knowledge reference : https://github.com/alpaddesai/AnalogDesign
