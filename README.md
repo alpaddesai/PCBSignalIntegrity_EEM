@@ -27,9 +27,6 @@ All images are custom or have a reference name.
 ## Board Signal Integrity
 ![image](BoardSI.png)
 
-## Digital Signal Processing
-![image](DSPGroundUp.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
