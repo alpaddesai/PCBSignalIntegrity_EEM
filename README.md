@@ -27,6 +27,9 @@ All images are custom or have a reference name.
 ## Board Signal Integrity
 ![image](BoardSI.png)
 
+## Simulations and Performance Metrics
+![image](SimulationsPerformanceMetrics.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
