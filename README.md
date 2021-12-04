@@ -35,9 +35,4 @@ All images are custom or have a reference name.
 
 ## Engineering Electromagnetics Fundamentals
 
-## Interest
-![image](image_1.png)
-
-![image](image.png)
-
 Advamced knowledge reference : https://github.com/alpaddesai/AnalogDesign
