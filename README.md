@@ -33,6 +33,4 @@ All images are custom or have a reference name.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Engineering Electromagnetics Fundamentals
-
 Advamced knowledge reference : https://github.com/alpaddesai/AnalogDesign
