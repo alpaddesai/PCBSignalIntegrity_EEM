@@ -30,6 +30,9 @@ All images are custom or have a reference name.
 ## Simulations and Performance Metrics
 ![image](SimulationsPerformanceMetrics.jpg)
 
+## GMAT Exam 
+![image](GMATImage.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
