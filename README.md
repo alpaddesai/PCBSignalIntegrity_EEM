@@ -27,6 +27,15 @@ All images are custom or have a reference name.
 ## Board Signal Integrity
 ![image](BoardSI.png)
 
+## Material
+![image](RogersICorp.JPG)
+
+## Material 
+![image](RogersIICorp.JPG)
+
+## Material
+![image](RogersIIICorp.JPG)
+
 ## Simulations and Performance Metrics
 ![image](SimulationsPerformanceMetrics.jpg)
 
