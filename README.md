@@ -45,6 +45,9 @@ All images are custom or have a reference name.
 ## Admission 
 ![image](admissionletter.jpg)
 
+## GMAT exam
+![image](GMATImage5.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
