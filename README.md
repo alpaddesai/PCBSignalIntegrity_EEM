@@ -51,4 +51,6 @@ All images are custom or have a reference name.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Advamced knowledge reference : https://github.com/alpaddesai/AnalogDesign
