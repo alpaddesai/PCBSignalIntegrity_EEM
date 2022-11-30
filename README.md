@@ -44,8 +44,6 @@ All images are custom or have a reference name.
 ![image](GeneralTestScores.jpg)
 
 
-## GMAT exam
-![image](GMATImage5.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
