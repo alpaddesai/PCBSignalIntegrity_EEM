@@ -39,14 +39,10 @@ All images are custom or have a reference name.
 ## Simulations and Performance Metrics
 ![image](SimulationsPerformanceMetrics.jpg)
 
-## GMAT Exam 
-![image](GMATImage.jpg)
 
 ## GRE Exam
 ![image](GeneralTestScores.jpg)
 
-## Admission 
-![image](admissionletter.jpg)
 
 ## GMAT exam
 ![image](GMATImage5.jpg)
