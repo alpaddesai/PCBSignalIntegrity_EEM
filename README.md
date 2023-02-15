@@ -43,4 +43,4 @@ All images are custom or have a reference name.
 
 ![image](USCopyrightCertificate.png)
 
-Advamced knowledge reference : https://github.com/alpaddesai/TechnicalProjectManagement
+Advamced knowledge reference : https://github.com/alpaddesai/ArchitecturalProductDesign
